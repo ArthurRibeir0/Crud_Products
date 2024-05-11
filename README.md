@@ -36,13 +36,25 @@ Este projeto é uma API RESTful desenvolvida em Django e Django REST Framework p
     ```
     cd Crud_Products
     ```
+    
+3. Crie e ative um ambiente virtual (opcional, mas recomendado):
+    - **No Windows:**
+        ```
+        python -m venv nome_do_ambiente
+        nome_do_ambiente\Scripts\activate
+        ```
+    - **No macOS e Linux:**
+        ```
+        python3 -m venv nome_do_ambiente
+        source nome_do_ambiente/bin/activate
+        ```
 
-3. Instale as dependências:
+4. Instale as dependências:
     ```
     pip install -r requirements.txt
     ```
 
-4. Execute as migrações do banco de dados:
+5. Execute as migrações do banco de dados:
     ```
     python manage.py migrate
     ```
