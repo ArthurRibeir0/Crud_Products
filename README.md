@@ -88,3 +88,16 @@ Este projeto é uma API RESTful desenvolvida em Django e Django REST Framework p
 - **400 Bad Request**: Erro de validação nos dados enviados.
 - **404 Not Found**: Produto não encontrado.
 - **500 Internal Server Error**: Erro interno do servidor.
+
+## Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
+
+## Contato
+
+Para mais informações, entre em contato:
+
+<a href="https://www.linkedin.com/in/arthur-ribeiro-peixoto-3b0096232/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:dev.arthur15@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.instagram.com/arthurr2415" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+
