@@ -41,11 +41,15 @@ Este projeto é uma API RESTful desenvolvida em Django e Django REST Framework p
     - **No Windows:**
         ```
         python -m venv nome_do_ambiente
+        ```
+        ```
         nome_do_ambiente\Scripts\activate
         ```
     - **No macOS e Linux:**
         ```
         python3 -m venv nome_do_ambiente
+        ```
+        ```
         source nome_do_ambiente/bin/activate
         ```
 
