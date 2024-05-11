@@ -4,9 +4,10 @@ Este projeto é uma API RESTful desenvolvida em Django e Django REST Framework p
 
 ## Tecnologias Utilizadas
 
-- Python 3.11.9
-- Django 5.0.4
-- Django REST Framework
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## Funcionalidades
 
@@ -28,7 +29,7 @@ Este projeto é uma API RESTful desenvolvida em Django e Django REST Framework p
 
 1. Clone o repositório:
     ```
-    git clone https://github.com/seu-usuario/Crud_Products.git
+    git clone https://github.com/ArthurRibeir0/Crud_Products.git
     ```
 
 2. Navegue até o diretório do projeto:
